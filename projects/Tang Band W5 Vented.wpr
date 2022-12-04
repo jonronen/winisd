@@ -2,7 +2,7 @@
 Description=
 Creator=Anat Drori Ronen
 CreateDate=20220925
-ModifyDate=20220925
+ModifyDate=20221018
 
 [Driver]
 Brand=TangBand
@@ -93,7 +93,7 @@ Isobarik=0
 alfaVC=0.0039
 dTVC=0
 Sdfport=0
-Sdrport=0.0013
+Sdrport=0.00195
 
 [VentFront]
 Num=1
@@ -112,10 +112,10 @@ Num=1
 Shape=2
 Fb=37
 Vb=0.01
-dia1=0.005
-dia2=0.26
-carea=0.0013
-len=0.254337330976282
+dia1=0.01
+dia2=0.195
+carea=0.00195
+len=0.38970334189051
 endcorrection=0.732
 crosscalc=1
 
@@ -137,7 +137,7 @@ Width=1
 
 [SignalSource]
 Rg=0.1
-P=4.94411764705882
+P=9.9
 
 [Filters]
 Count=0
