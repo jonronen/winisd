@@ -2,7 +2,7 @@
 Description=
 Creator=Anat Drori Ronen
 CreateDate=20220305
-ModifyDate=20220305
+ModifyDate=20231217
 
 [Driver]
 Brand=Designer Series
@@ -69,8 +69,8 @@ Ff=0
 Qlf=10
 Qaf=100
 Qpf=100
-Vr=0.07
-Fr=29.5
+Vr=0.075
+Fr=31.3
 Qlr=10
 Qar=100
 Qpr=100
@@ -93,7 +93,7 @@ Isobarik=0
 alfaVC=0.0039
 dTVC=0
 Sdfport=0
-Sdrport=0.00817128249198705
+Sdrport=0.0038484510006475
 
 [VentFront]
 Num=1
@@ -110,12 +110,12 @@ crosscalc=1
 [VentRear]
 Num=1
 Shape=1
-Fb=29.5
-Vb=0.07
-dia1=0.102
+Fb=31.3
+Vb=0.075
+dia1=0.07
 dia2=0.102
-carea=0.00817128249198705
-len=0.326671290859686
+carea=0.0038484510006475
+len=0.105469462305963
 endcorrection=0.732
 crosscalc=1
 
@@ -137,12 +137,12 @@ Width=1
 
 [SignalSource]
 Rg=0.1
-P=1
+P=9.88166666666667
 
 [Filters]
 Count=0
 
 [SimulatorOptions]
-VCInd=0
+VCInd=1
 FlatResponse=0
 TLPorts=0

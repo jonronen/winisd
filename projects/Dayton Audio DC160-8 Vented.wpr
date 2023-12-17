@@ -2,7 +2,7 @@
 Description=
 Creator=Anat Drori Ronen
 CreateDate=20230306
-ModifyDate=20230306
+ModifyDate=20231010
 
 [Driver]
 Brand=Dayton Audio
@@ -69,8 +69,8 @@ Ff=0
 Qlf=10
 Qaf=100
 Qpf=100
-Vr=0.01304
-Fr=47.85
+Vr=0.012
+Fr=47
 Qlr=10
 Qar=100
 Qpr=100
@@ -93,7 +93,7 @@ Isobarik=0
 alfaVC=0.0039
 dTVC=0
 Sdfport=0
-Sdrport=0.004
+Sdrport=0.001661902513749
 
 [VentFront]
 Num=1
@@ -109,13 +109,13 @@ crosscalc=1
 
 [VentRear]
 Num=1
-Shape=2
-Fb=47.85
-Vb=0.01304
-dia1=0.02
+Shape=1
+Fb=47
+Vb=0.012
+dia1=0.046
 dia2=0.2
-carea=0.004
-len=0.348606992729189
+carea=0.001661902513749
+len=0.15390853940728
 endcorrection=0.732
 crosscalc=1
 
@@ -137,7 +137,7 @@ Width=1
 
 [SignalSource]
 Rg=0.1
-P=1
+P=9.9
 
 [Filters]
 Count=0
