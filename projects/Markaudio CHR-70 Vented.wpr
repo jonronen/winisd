@@ -2,7 +2,7 @@
 Description=
 Creator=Anat Drori Ronen
 CreateDate=20221223
-ModifyDate=20230710
+ModifyDate=20240229
 
 [Driver]
 Brand=Markaudio
@@ -69,8 +69,8 @@ Ff=0
 Qlf=10
 Qaf=100
 Qpf=100
-Vr=0.0105
-Fr=53
+Vr=0.012
+Fr=51
 Qlr=10
 Qar=100
 Qpr=100
@@ -110,12 +110,12 @@ crosscalc=1
 [VentRear]
 Num=1
 Shape=1
-Fb=53
-Vb=0.0105
+Fb=51
+Vb=0.012
 dia1=0.046
 dia2=0.13
 carea=0.001661902513749
-len=0.134914853094922
+len=0.125638039042938
 endcorrection=0.732
 crosscalc=1
 
