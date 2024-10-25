@@ -2,7 +2,7 @@
 Description=
 Creator=Anat Drori Ronen
 CreateDate=20220920
-ModifyDate=20240712
+ModifyDate=20241024
 
 [Driver]
 Brand=Morel
@@ -69,8 +69,8 @@ Ff=0
 Qlf=10
 Qaf=100
 Qpf=100
-Vr=0.0071
-Fr=55
+Vr=0.0087
+Fr=50
 Qlr=10
 Qar=100
 Qpr=100
@@ -110,12 +110,12 @@ crosscalc=1
 [VentRear]
 Num=1
 Shape=1
-Fb=55
-Vb=0.0071
+Fb=50
+Vb=0.0087
 dia1=0.036
 dia2=0.102
 carea=0.00101787601976309
-len=0.11544608078125
+len=0.113669530113991
 endcorrection=0.732
 crosscalc=1
 

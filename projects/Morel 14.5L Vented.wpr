@@ -2,7 +2,7 @@
 Description=
 Creator=Anat Drori Ronen
 CreateDate=20220108
-ModifyDate=20220108
+ModifyDate=20240626
 
 [Driver]
 Brand=Morel
@@ -82,7 +82,7 @@ Qpc=0
 Qiclfr=100
 Qiclfc=0
 Qiclcr=0
-T=293.15
+T=303.15
 p=101325
 phi=0.3
 d=1
@@ -115,7 +115,7 @@ Vb=0.0145
 dia1=0.04
 dia2=0.102
 carea=0.00125663706143592
-len=0.110957495857612
+len=0.116052229684146
 endcorrection=0.732
 crosscalc=1
 
@@ -140,11 +140,11 @@ Rg=0.1
 P=1
 
 [Filters]
-Count=1
+Count=0
 filter0type=0
 filter0params=0;1;1;2.0000000000000000E+003;7.0699999999999996E-001
 
 [SimulatorOptions]
 VCInd=1
 FlatResponse=0
-TLPorts=1
+TLPorts=0
