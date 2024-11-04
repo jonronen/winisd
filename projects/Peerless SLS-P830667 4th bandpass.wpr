@@ -2,7 +2,7 @@
 Description=
 Creator=jon
 CreateDate=20241029
-ModifyDate=20241029
+ModifyDate=20241104
 
 [Driver]
 Brand=Peerless
@@ -64,13 +64,13 @@ ParState=CENCEEECCEECEECCECCENCCENNNCCNNNCCCCNCEEEEEEECNCC
 
 [Box]
 BType=2
-Vf=0.015
-Ff=67
+Vf=0.009
+Ff=76
 Qlf=10
 Qaf=100
 Qpf=100
-Vr=0.017
-Fr=67.3098328832029
+Vr=0.011
+Fr=77.6591940626127
 Qlr=10
 Qar=100
 Qpr=100
@@ -92,18 +92,18 @@ Angle=0
 Isobarik=0
 alfaVC=0.0039
 dTVC=0
-Sdfport=0.00502654824574367
+Sdfport=0.00373928065593525
 Sdrport=0
 
 [VentFront]
 Num=1
 Shape=1
-Fb=67
-Vb=0.015
-dia1=0.08
+Fb=76
+Vb=0.009
+dia1=0.069
 dia2=0.2
-carea=0.00502654824574367
-len=0.16479114770568
+carea=0.00373928065593525
+len=0.1647094921489
 endcorrection=0.732
 crosscalc=1
 
@@ -137,7 +137,7 @@ Width=1
 
 [SignalSource]
 Rg=0.1
-P=40.1464737793852
+P=59.8987341772152
 
 [Filters]
 Count=0
